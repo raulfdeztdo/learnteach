@@ -1,5 +1,5 @@
 # LearnTeach
-![img1](imgLT/twitter_profile_image.png)
+![img1](imgLT/twitter_header_photo_2.png)
 ### Descripción del proyecto
 
 LearnTeach es una aplicación para publicar clases particulares y apuntarte a ellas, de forma
@@ -36,7 +36,7 @@ la misma forma que a la vez que puedas dar clases puedas apuntarte a otras.
 
 ---
 
-![img6](imgLT/pantalla6.jpg)
+![img6](imgLT/pantalla3.jpg)
 
 
 ---
