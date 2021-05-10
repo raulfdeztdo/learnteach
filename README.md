@@ -28,15 +28,15 @@ la misma forma que a la vez que puedas dar clases puedas apuntarte a otras.
 
 ---
 
-![img4](imgLT/pantalla1.jpg)
+![img4](imgLT/pantalla1.png)
 
 ---
 
-![img5](imgLT/pantalla2.jpg)
+![img5](imgLT/pantalla2.png)
 
 ---
 
-![img6](imgLT/pantalla3.jpg)
+![img6](imgLT/pantalla3.png)
 
 
 ---
